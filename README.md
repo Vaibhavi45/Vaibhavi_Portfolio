@@ -87,7 +87,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **LinkedIn**: [linkedin.com/in/vaibhavi-patil45](https://linkedin.com/in/vaibhavi-patil45)
 - **GitHub**: [github.com/vaibhavi45](https://github.com/vaibhavi45)
-- **Email**: [Your Email]
+- **Email**: [patilvaibhavi720@gmail.com]
 
 ## 🙏 Acknowledgments
 
